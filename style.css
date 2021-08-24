@@ -18,6 +18,10 @@ html, body {
   clip-path: polygon(0 0, 0% 100%, 100% 90vh, 100% 0);
 }
 
+h1 {
+  font-size: 4rem;
+}
+
 .quote-container {
   width: auto;
   max-width: 900px;
@@ -30,6 +34,7 @@ html, body {
 }
 
 .quote-text {
+  margin: 2rem auto;
   font-size: 2.75rem;
 }
 
