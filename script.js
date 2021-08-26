@@ -5,7 +5,6 @@ const twitterBtn = document.getElementById("twitter");
 const newQuoteBtn = document.getElementById("new-quote");
 const loader = document.getElementById("loader");
 const left = document.getElementsByClassName("fa-quote-left");
-const right = document.getElementsByClassName("fa-quote-right");
 
 function showLoader() {
     loader.hidden = false;
