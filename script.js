@@ -4,7 +4,6 @@ const authorText = document.getElementById("author");
 const twitterBtn = document.getElementById("twitter");
 const newQuoteBtn = document.getElementById("new-quote");
 const loader = document.getElementById("loader");
-const left = document.getElementsByClassName("fa-quote-left");
 
 function showLoader() {
     loader.hidden = false;
